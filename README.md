@@ -25,4 +25,4 @@ Specialized in **Lua, JavaScript, Node.js, Python, SQL, HTML5, and CSS3**.
 ---
 
 📈 **Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcellResende&show_icons=true&theme=tokyonight)
