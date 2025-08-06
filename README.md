@@ -12,6 +12,8 @@ Basic experience with **C# and Unity**.
 [![Discord](https://img.shields.io/badge/Join%20my%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pskfp8WE9P)
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.arcshop.com.br/)
 [![Website](https://img.shields.io/badge/Visit%20Website-00BCD4?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://arcshop.com.br/)
+[![Instagram](https://img.shields.io/badge/Instagram-FE007F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcell.resende/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcellresende)
 
 ---
 
