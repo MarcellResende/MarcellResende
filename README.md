@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Marcell Resende
 
 **Full-Stack Developer**  
-18 y/o with 5+ years of experience. Known in the FiveM community for creating scripts with **200K+ downloads**.  
+19 y/o with 6+ years of experience. Known in the FiveM community for creating scripts with **200K+ downloads**.  
 Specialized in **Lua, JavaScript, Node.js, Python, SQL, HTML5, and CSS3**.  
 Basic experience with **C# and Unity**.
 
