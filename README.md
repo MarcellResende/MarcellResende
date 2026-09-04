@@ -1,36 +1,78 @@
-# 👋 Hi, I'm Marcell Resende
+<div align="center">
 
-**Full-Stack Developer**  
-19 y/o with 6+ years of experience. Known in the FiveM community for creating scripts with **200K+ downloads**.  
-Specialized in **Lua, JavaScript, Node.js, Python, SQL, HTML5, and CSS3**.  
-Basic experience with **C# and Unity**.
+# Marcell Alves Resende
+
+**FiveM Developer · Game Experience Developer · Full-Stack Developer**
+
+Brazilian developer focused on gameplay systems, tools, web products, and reliable user experiences.<br>
+I have been building for FiveM for seven years, with more than **200,000 total script downloads**.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-dev.arcspace.org-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://dev.arcspace.org/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcellresende-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcellresende/)
+[![Email](https://img.shields.io/badge/Email-marcellalvesresende10%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:marcellalvesresende10@gmail.com)
+[![Arc Space](https://img.shields.io/badge/Projects-arcspace.org-111111?style=flat-square&logo=googleearth&logoColor=white)](https://arcspace.org/)
+
+</div>
+
+## Profile
+
+- **7 years of FiveM development**, beginning with Lua systems and growing into full-stack products.
+- **200,000+ total downloads** across published scripts for the FiveM community.
+- Fluent in English, with a **Cambridge B2 certificate**.
+- Computer Science student at **UNIUBE**, currently in the second semester.
+- Based in Araguari, Minas Gerais, Brazil.
+
+I care about clear gameplay, maintainable systems, useful interfaces, and software that solves real problems. My current work includes rebuilding **Arc State** and developing **Arc Space**, a personal hub for my projects.
+
+## Technical stack
+
+![Lua](https://img.shields.io/badge/Lua-111111?style=flat-square&logo=lua&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-111111?style=flat-square&logo=dotnet&logoColor=white)
+![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+
+## FiveM and game systems
+
+| Project | What I built | Status |
+| --- | --- | --- |
+| **Arc State** | Original FiveM role-play server with custom gameplay, interfaces, persistence, and community systems. | Active rebuild · private |
+| **arc.Shield** | FiveM anti-cheat focused on intelligent detection, automated evidence, and low server impact. | Completed Jun 2026 · private |
+| **Arc Wall** | Free Lua administration and player-visualization tool distributed to the FiveM community. | [Public download](https://www.mediafire.com/file/4oskxb9i38ycoxu/Arc-Wall.rar/file) |
+| **arc.Panel** | Open-source FiveM administration dashboard built with Lua, JavaScript, HTML, CSS, and MySQL. | [Source code](https://github.com/MarcellResende/arc.Panel) |
+| **Arc Academy** | FiveM scripts, digital products, community support, and educational content. | Completed Jun 2026 |
+| **Authentication API** | Private Node.js service for product access control and script authentication. | Private |
+| **AI Anti-Aimbot** | Experimental Python and Lua system for detecting suspicious aiming behavior. | Research prototype · private |
+
+## Full-stack and independent projects
+
+| Project | What I built | Link |
+| --- | --- | --- |
+| **Arc Space** | Personal production hub designed to organize my work across dedicated subdomains. | [arcspace.org](https://arcspace.org/) |
+| **Adriano Resende Dentistry** | Patient records and an administrative dashboard for a real dental practice. | [Live project](https://adrianoresende.arcspace.org/) |
+| **Sandra Virginia Clinic** | Clinic website with administrative calendar, financial control, and operational tools. | [Portfolio details](https://dev.arcspace.org/#projetos) |
+| **Orion Tactical RPG** | Public tactical RPG system created for my cousin, covering characters, rules, and combat. | [Source code](https://github.com/MarcellResende/orion-rpg-tatico) |
+| **DoomALG / DoomALG++** | DOOM-inspired university project in VisuALG, expanded with a Python interpreter and 2.5D raycasting. | [Source code](https://github.com/MarcellResende/DOOM_TRABALHO_FACULDADE) |
+| **Class Website** | School website later expanded with React, Node.js, and MySQL. | [Source code](https://github.com/MarcellResende/3anonovo) |
+
+## GitHub activity
+
+<a href="https://github.com/MarcellResende?tab=overview">
+  <img width="760" alt="Marcell Resende's GitHub activity summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcellResende&theme=transparent">
+</a>
+
+[View repositories and contribution activity →](https://github.com/MarcellResende?tab=overview)
 
 ---
 
-### 🔗 Connect with me:
+<div align="center">
 
-[![Discord](https://img.shields.io/badge/Join%20my%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pskfp8WE9P)
-[![Website](https://img.shields.io/badge/Visit%20Website-00BCD4?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://arcacademy.com.br/)
-[![Instagram](https://img.shields.io/badge/Instagram-FE007F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcell.resende/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcellresende)
+[Portfolio](https://dev.arcspace.org/) · [GitHub](https://github.com/MarcellResende) · [LinkedIn](https://www.linkedin.com/in/marcellresende/) · [Instagram](https://www.instagram.com/marcell.resende/) · [YouTube](https://www.youtube.com/@arcano404)
 
----
-
-### 🛠️ Tech Stack:
-
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcellResende&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcellResende&show_icons=true&theme=tokyonight)
+</div>
