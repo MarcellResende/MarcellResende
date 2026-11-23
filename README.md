@@ -4,13 +4,14 @@
 
 **FiveM Developer · Game Experience Developer · Full-Stack Developer**
 
-Brazilian developer focused on gameplay systems, tools, web products, and reliable user experiences.<br>
-I have been building for FiveM for seven years, with more than **200,000 total script downloads**.
+Brazilian developer focused on gameplay systems, tools, desktop and web products, and reliable user experiences.<br>
+I have been building for FiveM for seven years, with more than **200,000 total script downloads**, and today I ship **arc.Studio**, an AI desktop app for content creators.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dev.arcspace.org-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://dev.arcspace.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcellresende-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcellresende/)
 [![Email](https://img.shields.io/badge/Email-marcellalvesresende10%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:marcellalvesresende10@gmail.com)
 [![Arc Space](https://img.shields.io/badge/Projects-arcspace.org-111111?style=flat-square&logo=googleearth&logoColor=white)](https://arcspace.org/)
+[![Arc XP](https://img.shields.io/badge/Arc%20XP-arcxp.online-111111?style=flat-square&logo=twitch&logoColor=white)](https://arcxp.online/)
 
 </div>
 
@@ -20,9 +21,10 @@ I have been building for FiveM for seven years, with more than **200,000 total s
 - **200,000+ total downloads** across published scripts for the FiveM community.
 - Fluent in English, with a **Cambridge B2 certificate**.
 - Computer Science student at **UNIUBE**, currently in the second semester.
+- Built and released **arc.Studio** in 17 days: 97 versions with auto-update through GitHub Actions and about 750 automated tests.
 - Based in Araguari, Minas Gerais, Brazil.
 
-I care about clear gameplay, maintainable systems, useful interfaces, and software that solves real problems. My current work includes rebuilding **Arc State** and developing **Arc Space**, a personal hub for my projects.
+I care about clear gameplay, maintainable systems, useful interfaces, and software that solves real problems. My current work includes **arc.Studio**, **Arc XP** (my live-streaming channel and its automated clip pipeline), rebuilding **Arc State**, and developing **Arc Space**, a personal hub for my projects.
 
 ## Technical stack
 
@@ -37,6 +39,16 @@ I care about clear gameplay, maintainable systems, useful interfaces, and softwa
 ![C%23](https://img.shields.io/badge/C%23-111111?style=flat-square&logo=dotnet&logoColor=white)
 ![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-111111?style=flat-square&logo=electron&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-111111?style=flat-square&logo=ffmpeg&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111111?style=flat-square&logo=githubactions&logoColor=white)
+
+## Current products
+
+| Project | What I built | Status |
+| --- | --- | --- |
+| **arc.Studio** | Windows desktop app (Electron, Node.js) with 49 local tools for image, video, audio, PDF, menu and kiosk design, plus AI clipping: it downloads a stream, finds the best moments, renders vertical clips with captions and music, and schedules them on TikTok, YouTube Shorts, and Instagram Reels. The ARC Autopilot produces and publishes videos per channel on its own. | v2.65 in production · private |
+| **Arc XP** | My live-streaming channel (Minecraft Hardcore where the AI makes the calls) with a Python pipeline that turns each stream into short clips: audio-peak and motion detection, faster-whisper captions, FFmpeg editing with original music, Real-ESRGAN webcam upscaling, and sync/loudness QA. Includes the arcxp.online site and a community Discord bot. | [arcxp.online](https://arcxp.online/) |
 
 ## FiveM and game systems
 
