@@ -5,7 +5,7 @@
 **FiveM Developer · Game Experience Developer · Full-Stack Developer**
 
 Brazilian developer focused on gameplay systems, tools, desktop and web products, and reliable user experiences.<br>
-I have been building for FiveM for seven years, with more than **200,000 total script downloads**, and today I ship **arc.Studio**, an AI desktop app for content creators.
+I have been building for FiveM for seven years, with more than **200,000 total script downloads**, and I now sell **arc.Studio**, a Windows app that turns live streams into short clips.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dev.arcspace.org-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://dev.arcspace.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcellresende-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcellresende/)
@@ -21,10 +21,9 @@ I have been building for FiveM for seven years, with more than **200,000 total s
 - **200,000+ total downloads** across published scripts for the FiveM community.
 - Fluent in English, with a **Cambridge B2 certificate**.
 - Computer Science student at **UNIUBE**, currently in the second semester.
-- Built and released **arc.Studio** in 17 days: 97 versions with auto-update through GitHub Actions and about 750 automated tests.
 - Based in Araguari, Minas Gerais, Brazil.
 
-I care about clear gameplay, maintainable systems, useful interfaces, and software that solves real problems. My current work includes **arc.Studio**, **Arc XP** (my live-streaming channel and its automated clip pipeline), rebuilding **Arc State**, and developing **Arc Space**, a personal hub for my projects.
+I care about clear gameplay, maintainable systems, useful interfaces, and software that solves real problems. Right now I am working on **arc.Studio**, my live-streaming channel **Arc XP**, rebuilding **Arc State**, and developing **Arc Space**, a personal hub for my projects.
 
 ## Technical stack
 
@@ -45,10 +44,10 @@ I care about clear gameplay, maintainable systems, useful interfaces, and softwa
 
 ## Current products
 
-| Project | What I built | Status |
+| Project | What I built | Links |
 | --- | --- | --- |
-| **arc.Studio** | Windows desktop app (Electron, Node.js) with 49 local tools for image, video, audio, PDF, menu and kiosk design, plus AI clipping: it downloads a stream, finds the best moments, renders vertical clips with captions and music, and schedules them on TikTok, YouTube Shorts, and Instagram Reels. The ARC Autopilot produces and publishes videos per channel on its own. | v2.65 in production · private |
-| **Arc XP** | My live-streaming channel (Minecraft Hardcore where the AI makes the calls) with a Python pipeline that turns each stream into short clips: audio-peak and motion detection, faster-whisper captions, FFmpeg editing with original music, Real-ESRGAN webcam upscaling, and sync/loudness QA. Includes the arcxp.online site and a community Discord bot. | [arcxp.online](https://arcxp.online/) |
+| **arc.Studio** | A Windows app that takes a whole live stream, finds the best moments and hands back vertical clips with captions and a title, then schedules them on TikTok, YouTube Shorts and Instagram Reels. It started as an image resizer and grew with what I needed to cut my own streams. Free plan available. | [Website](https://studio.arcspace.org/) · [Buy](https://conta.arcspace.org/comprar) |
+| **Arc XP** | My Minecraft live-streaming channel, where an AI decides what I do in the main series. A Python script I wrote turns each stream into short clips with captions and music; arc.Studio grew out of it. The channel also has a website and a Discord bot for the community. | [arcxp.online](https://arcxp.online/) |
 
 ## FiveM and game systems
 
